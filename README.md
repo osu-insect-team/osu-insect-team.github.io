@@ -1,1 +1,0 @@
-# osu-insect-team.github.io
