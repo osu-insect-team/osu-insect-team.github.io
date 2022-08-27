@@ -7,7 +7,7 @@
 - [Brittany Barker](https://entomology.oregonstate.edu/users/brittany-barker) Horticulture 
 - [Lincoln Best](https://extension.oregonstate.edu/people/lincoln-best) Horticulture, Pollinator Health Lab
 - [Sandra DeBano](https://fwcs.oregonstate.edu/users/sandra-debano) Hermiston Station/Fisheries, Wildlife, and Conservation
-- [Maggie Graham](https://entomology.oregonstate.edu/users/margaret-graham)Biological and Ecological Engineering
+- [Maggie Graham] (https://entomology.oregonstate.edu/users/margaret-graham) Biological and Ecological Engineering
 - [Chad Higgins](https://agsci.oregonstate.edu/users/chad-higgins) Biological and Ecological Engineering
 - [Jana Lee](https://www.ars.usda.gov/pacific-west-area/corvallis-or/horticultural-crops-research-unit/people/lee-jana/) USDA-ARS, Horticulture
 - [Molly Megraw](https://bpp.oregonstate.edu/users/molly-megraw) Botany and Plant Pathology
