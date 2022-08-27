@@ -1,6 +1,6 @@
 ## OSU Plant-Insect Team
 
-### This site (under development) is a shared repository for software, protocols, and metadata for Oregon State researchers studying plant-insect interactions.
+### This site (under development) is a shared repository for software, protocols, and metadata for a group of Oregon State researchers studying plant-insect interactions.
 
 ### Affiliated Researchers
 - [Chris Adams](https://horticulture.oregonstate.edu/users/christopher-adams) MCAREC/Horticulture 
