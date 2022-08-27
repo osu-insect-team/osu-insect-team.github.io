@@ -1,20 +1,20 @@
 ## OSU Plant-Insect Team
 
-### This site, under development, serves as a shared repository for software, protocols, and metadata for Oregon State researchers studying plant-insect interactions.
+### This site (under development) is a shared repository for software, protocols, and metadata for Oregon State researchers studying plant-insect interactions.
 
 ### Affiliated Researchers
-- [Chris Adams](https://entomology.oregonstate.edu/users/brittany-barker), MCAREC, Horticulture 
-- [Brittany Barker](https://entomology.oregonstate.edu/users/brittany-barker), Horticulture 
-- [Lincoln Best](https://entomology.oregonstate.edu/users/brittany-barker) Horticulture, Pollinator Health Lab
-- [Sandra DeBano](https://entomology.oregonstate.edu/users/brittany-barker)
-- [Maggie Graham](https://agsci.oregonstate.edu/users/john-selker) Biological and Ecological Engineering
-- [Chad Higgins](https://agsci.oregonstate.edu/users/john-selker) Biological and Ecological Engineering
-- [Jana Lee](https://agsci.oregonstate.edu/users/john-selker) USDA-ARS, Horticulture
-- [Molly Megraw](https://agsci.oregonstate.edu/users/john-selker)
-- [Andony Melathopoulos](https://agsci.oregonstate.edu/users/andony-melathopoulos) 
-- [Ramesh Sagili](https://agsci.oregonstate.edu/users/john-selker) 
-- [John Selker](https://agsci.oregonstate.edu/users/john-selkee) Biological and Ecological Engineering, OPEnS Lab
-- [Vaughn Walton](https://agsci.oregonstate.edu/users/john-selker) Horticulture
+- [Chris Adams](https://horticulture.oregonstate.edu/users/christopher-adams) MCAREC/Horticulture 
+- [Brittany Barker](https://entomology.oregonstate.edu/users/brittany-barker) Horticulture 
+- [Lincoln Best](https://extension.oregonstate.edu/people/lincoln-best) Horticulture, Pollinator Health Lab
+- [Sandra DeBano](https://fwcs.oregonstate.edu/users/sandra-debano) Hermiston Station/Fisheries, Wildlife, and Conservation
+- [Maggie Graham](https://entomology.oregonstate.edu/users/margaret-graham)Biological and Ecological Engineering
+- [Chad Higgins](https://agsci.oregonstate.edu/users/chad-higgins) Biological and Ecological Engineering
+- [Jana Lee](https://www.ars.usda.gov/pacific-west-area/corvallis-or/horticultural-crops-research-unit/people/lee-jana/) USDA-ARS, Horticulture
+- [Molly Megraw](https://bpp.oregonstate.edu/users/molly-megraw) Botany and Plant Pathology
+- [Andony Melathopoulos](https://agsci.oregonstate.edu/users/andony-melathopoulos) Horticulture, Pollinator Health Lab
+- [Ramesh Sagili](https://horticulture.oregonstate.edu/users/ramesh-sagili) Horticulture
+- [John Selker](https://agsci.oregonstate.edu/users/john-selker) Biological and Ecological Engineering, OPEnS Lab
+- [Vaughn Walton](https://agsci.oregonstate.edu/users/vaughn-walton) Horticulture
 - [Timothy Warren](https://agsci.oregonstate.edu/users/timothy-warren) Horticulture, Bioengineering
 
 ### Relevant Projects and Publications 
